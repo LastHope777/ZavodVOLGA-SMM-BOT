@@ -1,0 +1,7 @@
+.env
+ai_content_bot.db
+.venv
+.idea
+venv
+__pycache__/
+*.pyc
